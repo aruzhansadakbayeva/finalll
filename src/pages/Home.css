@@ -1,0 +1,18 @@
+
+.page-heading{
+    font-weight: 600;
+    font-size: 55px;
+    color: #030303;
+    padding: 70px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+
+    background: rgba(36, 35, 35, 0.9);
+}
+.sliderimg{
+    width: 400px;
+    height: 600px;
+    object-fit: cover;
+    position: center;
+}
